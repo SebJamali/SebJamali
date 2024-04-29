@@ -5,6 +5,7 @@
 - The purpose of this github is to showcase projects that will further advance my security skillset.
 
 - Currently studying: taking Google's  Cybersecurity certifcation program!
+- Link to projects: [Google Cybersecurity Projects](https://github.com/SebJamali/Google-Cybersecurity-Projects/blob/main/README.md)
 
 - CompTIA Security+: May 2024 (est.)
 
